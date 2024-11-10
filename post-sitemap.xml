@@ -1,431 +1,431 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://datacarvel.github.io/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/wp-content/plugins/wordpress-seo/css/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>https://datacarvel.github.io/blogue/</loc>
-		<lastmod>2023-01-14T23:27:30+00:00</lastmod>
+		<loc>/blogue/</loc>
+		<lastmod>2021-10-21T02:28:24+00:00</lastmod>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2017/11/29/visualisation-de-donnees-des-erreurs-typiques-a-eviter/</loc>
+		<loc>/visualisation-de-donnees-des-erreurs-typiques-a-eviter/</loc>
 		<lastmod>2017-11-29T20:36:31+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2017/11/Pixabay_Clouds_Polygons.png</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/Pixabay_Clouds_Polygons.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2017/11/29/data-visualisation-common-mistakes-to-avoid/</loc>
+		<loc>/data-visualisation-common-mistakes-to-avoid/</loc>
 		<lastmod>2017-11-29T20:41:33+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2017/11/Pixabay_Clouds_Polygons.png</image:loc>
+			<image:loc>/wp-content/uploads/2017/11/Pixabay_Clouds_Polygons.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2017/12/11/ces-startups-qui-ont-de-belles-idees-mais-qui-manquent-le-courage-daffronter-la-vraie-retroaction/</loc>
-		<lastmod>2017-12-11T00:42:12+00:00</lastmod>
+		<loc>/ces-startups-qui-ont-de-belles-idees-mais-qui-manquent-le-courage-daffronter-la-vraie-retroaction/</loc>
+		<lastmod>2017-12-11T00:15:07+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2017/12/Segway_Fail_ADI_Geekbecois_Startup_2-600.png</image:loc>
+			<image:loc>/wp-content/uploads/2017/12/Segway_Fail_ADI_Geekbecois_Startup_2-600.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2017/12/Produit_Deception.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/12/Produit_Deception.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2017/12/23/journalisme-ru-donnees-local/</loc>
+		<loc>/journalisme-ru-donnees-local/</loc>
 		<lastmod>2017-12-23T17:02:12+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2017/12/pexels-photo-111963-1111.png</image:loc>
+			<image:loc>/wp-content/uploads/2017/12/pexels-photo-111963-1111.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2017/12/23/uk-local-data-investigative-journalism/</loc>
+		<loc>/uk-local-data-investigative-journalism/</loc>
 		<lastmod>2017-12-23T17:13:25+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2017/12/pexels-photo-111963-1111.png</image:loc>
+			<image:loc>/wp-content/uploads/2017/12/pexels-photo-111963-1111.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2018/02/10/interactive-pyeongchang-2018-discipline-country-genre/</loc>
+		<loc>/fightingforair-bbc2-birmingham/</loc>
+		<lastmod>2018-01-12T17:01:40+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/01/Jens_Mehnke_Car_Elizabeth.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/fightingforair-docu-de-bbc2/</loc>
+		<lastmod>2018-01-12T17:09:48+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/01/Jens_Mehnke_Car_Elizabeth.jpeg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/brexit-agriculture-eu/</loc>
+		<lastmod>2018-01-19T05:22:36+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/01/pexels-photo-288621-650.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/infographic-carillion-collapse-explained/</loc>
+		<lastmod>2018-02-09T00:01:13+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/02/pexels-photo-38070.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/02/Carillion-Collapse-Firstweek-BirminghamEastside650.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/study-finds-teenagers-are-actually-aged-from-10-to-24-years-old-and-this-is-where-they-must-hang-out-in-birmingham/</loc>
+		<lastmod>2018-02-09T00:19:35+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/only-one-birmingham-based-organisation-present-at-the-world-economic-forum/</loc>
+		<lastmod>2018-02-09T00:31:26+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/02/davos-2042711_1920-620-1.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/interactive-pyeongchang-2018-discipline-country-genre/</loc>
 		<lastmod>2018-02-10T15:53:41+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/02/bobsled-team-run-olympics-38631.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2018/02/bobsled-team-run-olympics-38631.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/02/Pyeongchang2018mobileuninteractiveSteveCarufelTableau-700x2203.png</image:loc>
+			<image:loc>/wp-content/uploads/2018/02/Pyeongchang2018mobileuninteractiveSteveCarufelTableau-700x2203.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2018/02/10/interactif-athletes-pyeongchang-2018-pays-discipline-genre/</loc>
+		<loc>/interactif-athletes-pyeongchang-2018-pays-discipline-genre/</loc>
 		<lastmod>2018-02-10T16:14:46+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/02/bobsled-team-run-olympics-38631.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2018/02/bobsled-team-run-olympics-38631.jpeg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/02/Pyeongchang2018mobileuninteractiveSteveCarufelTableau-700x2203.png</image:loc>
+			<image:loc>/wp-content/uploads/2018/02/Pyeongchang2018mobileuninteractiveSteveCarufelTableau-700x2203.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2018/06/14/statistics-winning-world-cup-2018/</loc>
-		<lastmod>2018-06-16T00:25:51+00:00</lastmod>
+		<loc>/obesity/</loc>
+		<lastmod>2018-02-10T16:33:29+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/06/Soccer-Green-Football-Play-Sport-Ball-Field-Kick-452569.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/06/fifa-world-cup-2018-radar-charts123.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/06/fifa-world-cup-2018-column-charts.png</image:loc>
+			<image:loc>/wp-content/uploads/2018/02/pexels-photo-236817.jpeg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2018/10/03/elections-2018-alliance-pq-qs/</loc>
-		<lastmod>2018-10-05T15:08:25+00:00</lastmod>
+		<loc>/football-clubs-fined-underpaying-employees/</loc>
+		<lastmod>2018-03-22T10:37:42+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/10/TableauPactePQQScs.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/10/9ee6faewy3m11.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/10/TableauPactePQQS.png</image:loc>
+			<image:loc>/wp-content/uploads/2018/03/FCunderpayingemployeesEngland-e1539151054430.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2018/10/08/spatiotemporal-storytelling/</loc>
-		<lastmod>2018-10-09T01:04:31+00:00</lastmod>
+		<loc>/brexit-plaguing-nhs/</loc>
+		<lastmod>2018-04-29T09:01:55+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/10/business-commerce-focus-880840-e1538070493589.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2018/04/Queen_Elizabeth_Hospital_Birmingham_Edgbaston_Birmingham_England-7March2011.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/04/brexitnhs.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/04/europebuke.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2019/06/08/metal-birmingham-west-midlands-50-years/</loc>
-		<lastmod>2019-08-02T14:10:56+00:00</lastmod>
+		<loc>/election-map-birminghams/</loc>
+		<lastmod>2018-05-04T22:58:47+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2019/06/scarufel.png</image:loc>
+			<image:loc>/wp-content/uploads/2018/05/birmingham-council-election-map-new-boundaries.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2019/08/02/birmingham-west-midlands-metal-musique/</loc>
+		<loc>/mapped-birminghams-elections-2018-results/</loc>
+		<lastmod>2018-05-04T23:02:06+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/Chamberlain_Clock_and_the_Rose_Villa_Tavern_Jewellery_Quarter_Birmingham_UK-elect.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/scientific-scholarly-journals-uk/</loc>
+		<lastmod>2018-05-29T11:19:17+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/14236627814_de2d6742b7.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/05/UK_Universites_Scholarly_Journals_Increase_In_Costs_Steve_Carufel-2013-2014-2016-2017.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/statistics-winning-world-cup-2018/</loc>
+		<lastmod>2018-06-14T07:45:06+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/06/Soccer-Green-Football-Play-Sport-Ball-Field-Kick-452569.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/06/fifa-world-cup-2018-radar-charts123.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/06/fifa-world-cup-2018-column-charts.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/vgm-remix-guide/</loc>
+		<lastmod>2018-09-21T18:53:07+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/09/VGM_Remix_Steve_Carufel_Shorthand.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/musical-galaxy-network-analysis/</loc>
+		<lastmod>2018-09-26T16:49:24+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/09/original.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/elections-2018-alliance-pq-qs/</loc>
+		<lastmod>2018-10-03T20:07:19+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/10/TableauPactePQQScs.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/10/9ee6faewy3m11.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/10/TableauPactePQQS.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/spatiotemporal-storytelling/</loc>
+		<lastmod>2018-10-09T01:02:37+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2018/10/business-commerce-focus-880840-e1538070493589.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/shortlisted-shorthand-awards/</loc>
+		<lastmod>2019-02-22T14:25:32+00:00</lastmod>
+	</url>
+	<url>
+		<loc>/metal-birmingham-west-midlands-50-years/</loc>
+		<lastmod>2019-06-08T17:27:38+00:00</lastmod>
+		<image:image>
+			<image:loc>/wp-content/uploads/2019/06/scarufel.png</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>/birmingham-west-midlands-metal-musique/</loc>
 		<lastmod>2019-08-02T14:21:05+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2019/06/scarufel.png</image:loc>
+			<image:loc>/wp-content/uploads/2019/06/scarufel.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2018/05/29/scientific-scholarly-journals-uk/</loc>
-		<lastmod>2019-09-14T18:24:33+00:00</lastmod>
+		<loc>/des-nuits-de-moins-en-moins-confortables-a-montreal/</loc>
+		<lastmod>2020-08-14T02:26:32+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/05/14236627814_de2d6742b7.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2020/08/Gifsum.gif</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/05/UK_Universites_Scholarly_Journals_Increase_In_Costs_Steve_Carufel-2013-2014-2016-2017.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://datacarvel.github.io/2019/02/22/shortlisted-shorthand-awards/</loc>
-		<lastmod>2019-09-14T21:10:01+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://datacarvel.github.io/2018/09/21/vgm-remix-guide/</loc>
-		<lastmod>2019-09-14T21:10:31+00:00</lastmod>
-		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/09/VGM_Remix_Steve_Carufel_Shorthand.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/08/mtl-sum-nights-long2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2018/09/26/musical-galaxy-network-analysis/</loc>
-		<lastmod>2019-09-16T01:09:43+00:00</lastmod>
+		<loc>/montreal-warmer-nights/</loc>
+		<lastmod>2020-08-14T02:39:45+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/09/original.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/08/Gifsum.gif</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/08/mtl-sum-nights-long2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2020/11/13/james-bond-theme-songs-most-negative-mood/</loc>
-		<lastmod>2020-11-30T21:30:10+00:00</lastmod>
+		<loc>/james-bond-theme-songs-most-negative-mood/</loc>
+		<lastmod>2020-11-14T02:13:27+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2020/11/BadMoodIndex-desktop3.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/11/BadMoodIndex-desktop3.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2020/11/Anger2.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/11/Anger2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2020/11/Joy2.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/11/Joy2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2020/11/Sadness2.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/11/Sadness2.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2020/11/Trust2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://datacarvel.github.io/2018/02/09/infographic-carillion-collapse-explained/</loc>
-		<lastmod>2021-12-12T01:07:04+00:00</lastmod>
-		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/02/pexels-photo-38070.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/02/Carillion-Collapse-Firstweek-BirminghamEastside650.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/11/Trust2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2018/02/09/study-finds-teenagers-are-actually-aged-from-10-to-24-years-old-and-this-is-where-they-must-hang-out-in-birmingham/</loc>
-		<lastmod>2021-12-12T01:07:12+00:00</lastmod>
-	</url>
-	<url>
-		<loc>https://datacarvel.github.io/2018/02/09/only-one-birmingham-based-organisation-present-at-the-world-economic-forum/</loc>
-		<lastmod>2021-12-12T01:07:19+00:00</lastmod>
+		<loc>/chansons-themes-films-de-james-bond-negative/</loc>
+		<lastmod>2020-11-16T14:53:36+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/02/davos-2042711_1920-620-1.png</image:loc>
+			<image:loc>/wp-content/uploads/2020/11/BadMoodIndex-desktop3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/11/Anger2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/11/Joy2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/11/Sadness2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2020/11/Trust2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2018/03/22/football-clubs-fined-underpaying-employees/</loc>
-		<lastmod>2021-12-12T01:07:26+00:00</lastmod>
+		<loc>/un-an-covid-19-au-quebec-comparaison-regions/</loc>
+		<lastmod>2021-02-25T02:35:48+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/03/FCunderpayingemployeesEngland-e1539151054430.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/02/sefeewgewgew.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/02/Covid19-Quebec-Par-Grandes-Regions-Feb21-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/02/Covid19-Quebec-Surrepresentation-des-Regions-Feb21-2.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/02/Covid19-Quebec-Cumul-Chiffres-Feb21-2.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2018/05/04/election-map-birminghams/</loc>
-		<lastmod>2021-12-12T01:07:41+00:00</lastmod>
+		<loc>/vaccination-covid19/</loc>
+		<lastmod>2021-03-22T02:15:38+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/05/birmingham-council-election-map-new-boundaries.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/03/Vaccination-covid-19-thumbnail.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/03/VizCas3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/03/VizHospi3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/03/VizCorCas3.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/03/VizCorHospi3.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2018/05/04/mapped-birminghams-elections-2018-results/</loc>
-		<lastmod>2021-12-12T01:07:58+00:00</lastmod>
+		<loc>/dataviz-interactive-vgm-overclocked-remix/</loc>
+		<lastmod>2021-08-03T14:59:15+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/05/Chamberlain_Clock_and_the_Rose_Villa_Tavern_Jewellery_Quarter_Birmingham_UK-elect.png</image:loc>
+			<image:loc>/wp-content/uploads/2022/01/ocremix-over-the-years-stevecarufel-empty.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/08/ocremix-over-the-years-stevecarufel-3aout-smaller.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2018/01/12/fightingforair-bbc2-birmingham/</loc>
-		<lastmod>2021-12-12T01:08:05+00:00</lastmod>
+		<loc>/overclocked-remix-20-ans-reprises-jeux-video/</loc>
+		<lastmod>2021-08-04T00:47:12+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/01/Jens_Mehnke_Car_Elizabeth.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2022/01/ocremix-over-the-years-stevecarufel-empty.png</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2018/01/12/fightingforair-docu-de-bbc2/</loc>
-		<lastmod>2021-12-12T01:08:07+00:00</lastmod>
+		<loc>/canadian-federal-election-2021/</loc>
+		<lastmod>2021-10-21T01:18:22+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/01/Jens_Mehnke_Car_Elizabeth.jpeg</image:loc>
+			<image:loc>/wp-content/uploads/2021/10/thumbnail-post-election-2021.png</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/10/PPC2019.png?ssl=2</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/10/PPC2021.png?ssl=2</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/10/Green2019.png?ssl=2</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/10/Green2021.png?ssl=2</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/10/Liberals2019.png?ssl=2</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/10/Liberals2021.png?ssl=2</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/10/Conservatives2019.png?ssl=2</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/10/Conservatives2021.png?ssl=2</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/10/NDP2019.png?ssl=2</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/10/NDP2021.png?ssl=2</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/10/Bloc2019.png?ssl=2</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/10/Bloc2021.png?ssl=2</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/10/Others2019.png?ssl=2</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>/wp-content/uploads/2021/10/Others2021.png?ssl=2</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>https://datacarvel.github.io/2018/02/10/obesity/</loc>
-		<lastmod>2021-12-12T01:08:13+00:00</lastmod>
+		<loc>/election-federale-canadienne-2021/</loc>
+		<lastmod>2021-10-21T02:28:24+00:00</lastmod>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/02/pexels-photo-236817.jpeg</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://datacarvel.github.io/2018/01/19/brexit-agriculture-eu/</loc>
-		<lastmod>2021-12-12T01:08:37+00:00</lastmod>
-		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/01/pexels-photo-288621-650.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://datacarvel.github.io/2018/04/29/brexit-plaguing-nhs/</loc>
-		<lastmod>2021-12-12T01:08:39+00:00</lastmod>
-		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/04/Queen_Elizabeth_Hospital_Birmingham_Edgbaston_Birmingham_England-7March2011.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/10/thumbnail-post-election-2021.png</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/04/brexitnhs.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/10/PPC2019.png?ssl=2</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2018/04/europebuke.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://datacarvel.github.io/2020/08/13/montreal-warmer-nights/</loc>
-		<lastmod>2021-12-14T02:35:41+00:00</lastmod>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2020/08/Gifsum.gif</image:loc>
+			<image:loc>/wp-content/uploads/2021/10/PPC2021.png?ssl=2</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2020/08/mtl-sum-nights-long2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://datacarvel.github.io/2020/08/13/des-nuits-de-moins-en-moins-confortables-a-montreal/</loc>
-		<lastmod>2021-12-14T02:36:12+00:00</lastmod>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2020/08/Gifsum.gif</image:loc>
+			<image:loc>/wp-content/uploads/2021/10/Green2019.png?ssl=2</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2020/08/mtl-sum-nights-long2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://datacarvel.github.io/2021/08/03/overclocked-remix-20-ans-reprises-jeux-video/</loc>
-		<lastmod>2022-01-11T14:58:15+00:00</lastmod>
-		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2022/01/ocremix-over-the-years-stevecarufel-empty.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://datacarvel.github.io/2021/08/03/dataviz-interactive-vgm-overclocked-remix/</loc>
-		<lastmod>2022-01-11T14:58:51+00:00</lastmod>
-		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2022/01/ocremix-over-the-years-stevecarufel-empty.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/10/Green2021.png?ssl=2</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/08/ocremix-over-the-years-stevecarufel-3aout-smaller.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://datacarvel.github.io/2020/11/16/chansons-themes-films-de-james-bond-negative/</loc>
-		<lastmod>2022-03-15T00:35:44+00:00</lastmod>
-		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2020/11/BadMoodIndex-desktop3.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/10/Liberals2019.png?ssl=2</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2020/11/Anger2.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/10/Liberals2021.png?ssl=2</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2020/11/Joy2.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/10/Conservatives2019.png?ssl=2</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2020/11/Sadness2.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/10/Conservatives2021.png?ssl=2</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2020/11/Trust2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://datacarvel.github.io/2021/02/24/un-an-covid-19-au-quebec-comparaison-regions/</loc>
-		<lastmod>2022-06-14T00:59:58+00:00</lastmod>
-		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2021/02/sefeewgewgew.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/10/NDP2019.png?ssl=2</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2021/02/Covid19-Quebec-Par-Grandes-Regions-Feb21-2.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/10/NDP2021.png?ssl=2</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2021/02/Covid19-Quebec-Surrepresentation-des-Regions-Feb21-2.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/10/Bloc2019.png?ssl=2</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2021/02/Covid19-Quebec-Cumul-Chiffres-Feb21-2.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://datacarvel.github.io/2021/03/21/vaccination-covid19/</loc>
-		<lastmod>2022-06-14T01:01:19+00:00</lastmod>
-		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2021/03/Vaccination-covid-19-thumbnail.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/10/Bloc2021.png?ssl=2</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2021/03/VizCas3.png</image:loc>
+			<image:loc>/wp-content/uploads/2021/10/Others2019.png?ssl=2</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2021/03/VizHospi3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2021/03/VizCorCas3.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2021/03/VizCorHospi3.png</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://datacarvel.github.io/2021/10/20/canadian-federal-election-2021/</loc>
-		<lastmod>2023-01-14T23:20:13+00:00</lastmod>
-		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2021/10/thumbnail-post-election-2021.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/PPC2019.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/PPC2021.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/Green2019.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/Green2021.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/Liberals2019.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/Liberals2021.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/Conservatives2019.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/Conservatives2021.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/NDP2019.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/NDP2021.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/Bloc2019.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/Bloc2021.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/Others2019.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/Others2021.png?ssl=2</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>https://datacarvel.github.io/2021/10/20/election-federale-canadienne-2021/</loc>
-		<lastmod>2023-01-14T23:27:30+00:00</lastmod>
-		<image:image>
-			<image:loc>https://datacarvel.github.io/wp-content/uploads/2021/10/thumbnail-post-election-2021.png</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/PPC2019.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/PPC2021.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/Green2019.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/Green2021.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/Liberals2019.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/Liberals2021.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/Conservatives2019.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/Conservatives2021.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/NDP2019.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/NDP2021.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/Bloc2019.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/Bloc2021.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/Others2019.png?ssl=2</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>https://i2.wp.com/scarufel.com/wp-content/uploads/2021/10/Others2021.png?ssl=2</image:loc>
+			<image:loc>/wp-content/uploads/2021/10/Others2021.png?ssl=2</image:loc>
 		</image:image>
 	</url>
 </urlset>
